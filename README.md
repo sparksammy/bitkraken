@@ -7,5 +7,6 @@ By the way this basically finds bitcoin private keys
 by converting words to SHA256 sums. 
 
 On Ubuntu 20.04 it only depends on Bitcoin Core, in the bitcoin/ directory, which you can find [here.](https://bitcoin.org/en/download)
+***Also, you must have a non-encrypted wallet. Feel free to fork according to the LICENSE to make it so it unlocks the wallet...***
 
 Exemptions of the LICENSE include The Arcadia Group, as well as anyone else who has forked this project before 12/2/2020.
